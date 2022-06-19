@@ -14,7 +14,7 @@ npm install
 
 ## Usage
 Add this to ```config.json```
-```json
+```js
 
 {
 	module: "music-player",
